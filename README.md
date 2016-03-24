@@ -2,6 +2,8 @@
 
 ## Members
 
+Alexander White: Specs
+
 Joshua Stevenson: Analysis 
 
-Alexander White: Specs
+Phil Kaiser-Parlette: Implementation
