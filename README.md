@@ -3,3 +3,5 @@
 ## Members
 
 Joshua Stevenson: Analysis 
+
+Alexander White: Specs
