@@ -1,0 +1,22 @@
+I.R.I.S. One
+Group 7
+CEG-4110, Introduction to Software Engineering, Spring Semester 2016
+1.	Alexander White: Specifications Officer
+2.	Joshua Stevenson
+3.	Kevin Porter
+4.	Phil Kaiser-Parlette
+5.	Robby Laufer
+
+Description:
+I.R.I.S One is developing iris recognition software for Introduction to Software Engineering, CS-4110, Spring Semester 2016, to fulfill course requirements. The request for work is made by Nikolaos Bourbakis.
+The software will take a provided image of an iris and compare the provided image to a stored identifying iris image. Upon comparison, if a match is found the software will indicate that the user is authorized or registered. If a match is not found, the software will indicate that the user is not authorized nor registered. The software shall run in a Java Runtime Environment. (JRE)
+
+Cost/Schedule:
+Development of the software shall cost $5,910. (5 students x 3 credit hours x $394 per credit hour).
+The software product shall be developed and ready for delivery by 11:59 PM Saturday, April 23, 2016.
+
+Testing:
+•	Images of user irises for both scanning and comparison shall be provided by the customer.
+•	Hardware to run the tests on shall be provided by the computer lab of Wright State University.
+•	Software to be tested and delivered shall be provided by the development team.
+The software shall accept a reference image and two test images. One test image will be an authorized user of the device and one test image will be an unauthorized user. The software shall correctly accept the authorized user, and reject the unauthorized user.
